@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="stream_deck.vcxproj" Id="31b10067-aa2c-420e-9168-9b40b7b3ee34" />
+</Solution>
